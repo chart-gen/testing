@@ -139,6 +139,10 @@
       {
         "label": "Test5",
         "value": 12
+      },
+      {
+        "label": "Test6",
+        "value": 6
       }
     ]
   }
