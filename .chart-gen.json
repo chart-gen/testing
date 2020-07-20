@@ -1,3 +1,137 @@
 [
-  
+  {
+    "id": "stackedbarchart",
+    "title": "Test chart! (online)",
+    "type": "stackedbarchart",
+    "options": {
+      "backgroundColor": "#fff",
+      "titleColor": "#000"
+    },
+    "Bars": [
+      {
+        "label": "First",
+        "Values": [
+          {
+            "label": "F1",
+            "value": 3
+          },
+          {
+            "label": "F2",
+            "value": 6
+          },
+          {
+            "label": "F3",
+            "value": 8
+          }
+        ]
+      },
+      {
+        "label": "Second",
+        "Values": [
+          {
+            "label": "S1",
+            "value": 1
+          },
+          {
+            "label": "S2",
+            "value": 5
+          },
+          {
+            "label": "S3",
+            "value": 9
+          }
+        ]
+      },
+      {
+        "label": "Third",
+        "Values": [
+          {
+            "label": "T1",
+            "value": 2
+          },
+          {
+            "label": "T2",
+            "value": 3
+          },
+          {
+            "label": "T3",
+            "value": 5
+          },
+          {
+            "label": "T4",
+            "value": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "donutchart",
+    "title": "Test chart!",
+    "type": "donutchart",
+    "options": {
+      "backgroundColor": "#fff",
+      "titleColor": "#000"
+    },
+    "values": [
+      {
+        "label": "Test",
+        "value": 7
+      },
+      {
+        "label": "Test2",
+        "value": 4
+      },
+      {
+        "label": "Test3",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "id": "barchart",
+    "title": "Test chart!",
+    "type": "barchart",
+    "options": {
+      "backgroundColor": "#fff",
+      "titleColor": "#000"
+    },
+    "values": [
+      {
+        "label": "Test",
+        "value": 10
+      },
+      {
+        "label": "Test2",
+        "value": 4
+      },
+      {
+        "label": "Test3",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "id": "piechart",
+    "title": "Test chart!",
+    "type": "piechart",
+    "options": {
+      "backgroundColor": "#fff",
+      "titleColor": "#000"
+    },
+    "values": [
+      {
+        "label": "Test",
+        "value": 10
+      },
+      {
+        "label": "Test2",
+        "value": 4
+      },
+      {
+        "label": "Test3",
+        "value": 8
+      }
+    ]
+  }
 ]
