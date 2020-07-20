@@ -67,7 +67,7 @@
   },
   {
     "id": "donutchart",
-    "title": "Test chart!",
+    "title": "Test chart! 1",
     "type": "donutchart",
     "options": {
       "backgroundColor": "#fff",
